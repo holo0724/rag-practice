@@ -1,0 +1,384 @@
+FREQUENTLY ASKED QUESTIONS (FAQs) ON REGISTRATION AND COMPLIANCE
+
+Updated 05 January 2026
+
+
+Q: WHAT IS NATIONAL PRIVACY COMMISSION REGISTRATION SYSTEM (“NPCRS”)?
+The NPC Registration system is a secure and reliable web-based portal for the registration of Data Processing System (DPS) and Data Protection Officers (DPO). The platform will expedite the process for registration of DPS in the Philippines as required by the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulations (IRR), which includes online web-based and mobile applications that process personal information and/or sensitive personal information.
+
+Q: WHO CAN USE THE NPCRS?
+Personal Information Controllers (PIC) Personal Information Processor (PIP) under the direct control of a PIC Individual Professionals (IP) as PIC or PIP.
+
+Q: WHO CAN CREATE AN NPCRS ACCOUNT?
+A PIC and a PIP through their designated DPO may create an NPCRS account.
+
+An IP, as DPO or through an appointed DPO may likewise create the same.
+
+Q: WHEN IS REGISTRATION IN NPCRS REQUIRED?
+In compliance with NPC Circular No. 2022-04 effective 11 January 2022, all application for registration of Data Processing System and Data Protection Officer shall be through the NPCRS only.
+
+a. Mandatory Registration
+Not all entities are required to create and account with the NPCRS. Under Section 5 of NPC Circular No. 2022-04, a PIC/PIP shall be required to register under the online platform when ANY of the following are present:
+
+i. PIC or PIP employing two hundred fifty (250) or more persons
+ii. PIC or PIP processing sensitive personal information of one thousand (1,000) or more individuals
+iii. PIC or PIP processing data that will likely pose a risk to the rights and freedoms of data subjects
+iv. Government Agency or Instrumentality (Government processing will likely pose a risk to the rights and freedoms of data subjects)
+
+b. Voluntary Registration
+An application for registration by a PIC or PIP processing personal data who does not operate under any of the conditions set forth under Section 5 of NPC Circular No. 2022-04, the PIC or PIP may register voluntarily
+
+c. Exemption from Data Processing System Registration
+A PIC or PIP who will not elect voluntary registration is required to file a duly notarized sworn declaration and undertaking, this is Annex 1 of NPC Circular No. 2022-04.
+
+Q: WHO SHOULD REGISTER DATA PROCESSING SYSTEMS?
+DPOs of PICs who owns the Data Processing System (DPS).
+
+DPOs of PICs providing PIP with a DPS.
+
+DPOs of PICs using system-as-a-service shall register the DPS and indicate that processing is done through a service provider.
+
+DPOs of PIPs using its own DPS to process personal data under the instruction of the PIC.
+
+Q: IS REGISTRATION OF MULTIPLE DATA PROTECTION OFFICERS FOR ONE ENTITY ALLOWED?
+NO, only one DPO may be registered per entity. (One DPO, One DPO Email, One Registration per entity)
+
+The entity however may internally appoint as many Officers as required to implement data protection measures.
+
+Q: HOW ABOUT COMMON DATA POTECTION OFFICER, IS IT ALLOWED?
+YES, common DPO is allowed as long as registration is on a per entity basis. The DPO however is not allowed to use the same Official DPO email for all entities it serves. (One DPO, One DPO Email, One Registration per entity)
+
+Q: PERIOD TO REGISTER?
+The NPCRS is open to receive registration applications 24/7 except on scheduled maintenance days.
+
+Entities for mandatory registration with a new DPS must register within twenty (20) days from the launch of the system.
+
+Entities who are required to register must register the appointment or designation of a new DPO within twenty (20) days from the designation or Appointment.
+
+WHEN TO DO MAJOR AMENDMENTS?
+Amendments to the (1) Name of the Entity or the (2) Business Address are considered MAJOR and should be through the registration system within 30 days from the effectivity of the change.
+
+Q: WHAT ARE CONSIDERED MINOR AMENDMENTS?
+All other changes are considered MINOR, and shall be effected using the registration platform within 10 days from the change.
+
+Q: WHAT IF MY DPS HAS CHANGES OR IS DECOMMISSIONED?
+The NPCRS allows you to do minor amendments to your registration information pertaining to your DPS.
+
+DPS may be tagged as inactive through the minor amendment process.
+
+Q: WHAT SUPPORTING DOCUMENTS SHOULD I HAVE TO SUCCESFULLY REGISTER MY ACCOUNT?
+An application for registration filed by a DPO must be duly notarized and be accompanied by the following documents:
+
+a. For government agencies:
+Special or Office Order, or any similar document, designating or appointing the DPO of the PIC or PIP;
+
+b. For domestic private entities:
+i. For Corporations
+a) (1) duly notarized Secretary’s Certificate authorizing the appointment or designation of DPO, or (2) any other document demonstrating the validity of the appointment or designation of the DPO signed by the Head of the Organization with an accompanying valid document conferring authority to the Head of Organization to designate or appoint persons to positions in the organization.
+
+b) Securities and Exchange Commission (SEC) Certificate of Registration.
+
+c) certified true copy of latest General Information Sheet.
+
+d) valid business permit.
+
+c. For One Person Corporation
+a) (1) duly notarized Secretary’s Certificate authorizing the appointment or designation of DPO, or (2) any other document that demonstrates the validity of the appointment or designation of DPO signed by the sole director of the One Person Corporation.
+
+b) SEC Certificate of Registration
+
+c) valid business permit.
+
+d. For Partnerships
+a) duly notarized Partnership Resolution or Special Power of Attorney authorizing the appointment or designation of DPO, or any other document that demonstrates the validity of the appointment or designation.
+
+b) SEC Certificate of Registration.
+
+c) valid business permit
+
+e. Sole Proprietorships
+a) duly notarized document appointing the DPO and signed by the sole proprietor, in case the same should elect to appoint or designate another person as DPO.
+
+b) DTI Certificate of Registration.
+
+c) valid business permit.
+
+f. For foreign private entities:
+i. Authenticated copy or Apostille of Secretary’s Certificate authorizing the appointment or designation of DPO, or any other document that demonstrates the appointment or designation, with an English translation thereof if in a language other than English.
+ii. Authenticated copy or Apostille of the following documents, with an English translation thereof if in a language other than English, where applicable:
+a) Latest General Information Sheet or any similar document.
+
+b) Registration Certificate (Corporation, Partnership, Sole Proprietorship) or any similar document.
+
+c) valid business permit or any similar document
+
+Q: WHEN IS THE END OF THE TRANSITORY PERIOD TO COMPLY?
+NPC Circular No. 2022-04 was effective last 11 January 2023, the 180 days transitory period will end on 10 July 2023.
+
+Q: I HAVE A CERTIFICATE OF REGISTRATION (COR) STILL VALID UNTIL 08 MARCH 2023, WILL THIS BE INVALIDATED?
+NO, all CORs with effectivity date until the 8th of March 2023 will have an extended validity until the 10th of July 2023.
+
+If the DPO completes the registration process through the NPCRS before the lapse of the 180 days, the validity of the COR and the NPC Seal of Registration (SOR) will be 1 year from its issuance.
+
+Q: I HAVE A COR VALID UNTIL 08 MARCH 2022 OR EARLIER, IS THIS STILL VALID?
+NO, you must do the initial registration with the NPCRS right away.
+
+Q: WILL MY PREVIOUS REGISTRATION RECORD BE TRANSFERRED TO THE NPCRS?
+NO, we have implemented a clean database for the NPCRS, all are required to go through with the initial registration process.
+
+Q: WHAT WILL HAPPEN TO MY OLD REGISTRATION RECORD?
+Your old registration record shall be stored and disposed of according to the Commissions’ Privacy Policy. The Commission is implementing sufficient Organizational, Technical, and Physical Security Measures to protect personal data that we process.
+
+Q: IS THE SIGNED/NOTARIZED PRIOR APPLICATION FORM VALID TO BE UPLOADED IN THE NPCRS?
+NO. only a notarized system generated form of the NPCRS will be accepted upon validation.
+
+Q: IS IT ACCEPTABLE IF WE SUBMIT THE PREVIOUSLY SIGNED AND NOTARIZED DPO FORM FOR THE RENEWAL OF OUR REGISTRATION?
+Only if it was Notarized in 2024 and will be use for the renewal of registration, provided that there are no changes in the Organization details and the appointed or designated DPO.
+
+Q: IS THE PREVIOUSLY SUBMITTED SECRETARY’S CERTIFICATE ON THE DESIGNATION OR APPOINTMENT OF A DPO AN ACCEPTED SUPPORTING DOCUMENT?
+Only if it was Notarized in 2023 and used then to renew registration, provided that there are no changes in the appointed or designated DPO.
+
+Q: IN CASE MY DPO ACCOUNT IS INACCESSIBLE, HOW DO I RETRIEVE IT?
+On the NPCRS landing page, you may click “Inaccessible account? Retrieve here”. Upon which, you will be required to input your specific organization together with a new DPO email address and upload of a notarized justification letter. There is a Fee of Php 5,000.00 to recover an inaccessible account.
+
+Q: OUR ORGANIZATION HAS MORE THAN TWENTY (20) DPS MANUAL AND AUTOMATED, CAN I ACCESS THE DPO ACCOUNT SIMULTANEOUSLY WITH MULTIPLE DEVICE?
+As a security measure, the system will prompt that multiple sessions are taking place. Organizations are required to implement organizational security measures like role-based access control to secure their NPCRS accounts.
+
+We highly recommend that you prioritize registering your critical DPS:
+
+(1) Those with automated decision making and/or profiling;
+
+(2) Client or customer facing ONLINE web based or mobile applications; and
+
+(3) Those processing sensitive personal information.
+
+Submit registration to acquire your COR and SOR then amend your registration record by adding your other DPS as a minor amendment.
+
+Q: IF WE REGISTER OUR COMPLIANCE OFFICER FOR PRIVACY (COP), WILL IT MEAN THAT THE RESPECTIVE REGION/BRANCH/OFFICE IS REGISTERED?
+NO
+
+Q: WILL THEY BE ISSUED THEIR CERTIFICATES AS WELL OR SHOULD WE JUST REGISTER EACH REGION/BRANCH/OFFICE SEPARATELY?
+The registration of COPs will not grant their respective region/branch/office a separate certificate and seal of registration. The DPO shall forward the NPC SOR to its region/branch/office for display.
+
+A region/branch/office is not allowed to create a separate registration in the NPCRS.
+
+For Government: The Privacy Policy of the Department or Office will be controlling when it comes to registration using the preferred centralized organizational structure for data privacy or the uncommonly used decentralized structure.
+
+Q: WHAT HAPPENS IF WE DO NOT COMPLY WITH THE REJECTION OF OUR DPO/DPS REGISTRATION
+Accordingly, PIC/PIP/Individual Professionals are encouraged to take prompt action regarding their registration information in the NPCRS. They can submit a new application using the same account or provide a letter of explanation outlining why the removal of their registration should not proceed.
+
+To ensure their application remains active, it’s important to submit this response within FIFTEEN (15) DAYS from the date of the Notice. It is crucial to emphasize that once the new application is submitted, it will automatically overwrite the previous one potentially resulting in a loss of access to the former.
+
+Q: WE ARE A GOVERNMENT ENTITY WITH SEVERAL BUREAUS AND DEPARTMENTS. ARE THE BUREAUS AND DEPARTMENTS REQUIRED TO REGISTER AS A SEPARATE ENTITY?
+It depends. Government entities with bureaus, agencies and departments within its organization, but do not have a separate charter and are operating merely as a functional unit within the organization is not required to register. On the other hand, if the bureau or department, or an attached agency has a separate charter and is operating independently of the organization, then each of the said entities must register separately.
+
+Q: WE ARE A PRIVATE ORGANIZATION THAT HAS SEVERAL BRANCHES ACROSS THE PHILIPPINES, ARE WE REQUIRED TO REGISTER EACH ONE OF THEM?
+It depends. NPC Circular No. 2022-04 mandates each juridical entity falling within the provisions of Section 5 to register its DPO and DPS. If the branches are considered as part of the whole organization and are operating as a unit of said organization, it is not required to register each branch individually.
+
+If the entity has complex or wide scope of operations, it may opt to designate and register COPs for its branches. These COPs will be directly reporting to the DPO. The COPs should be indicated in the DPO registration along with their respective branch, office, unit, or region, official email addresses, and contact numbers.
+
+Q: WE ARE A PRIVATE CORPORATION WITH FRANCHISE AGREEMENTS WITH VARIOUS ENTITIES. THESE ENTITIES CARRY OUR BRAND AND LOGO, USE SOME OF OUR SYSTEMS, SUCH AS THOSE USED FOR MONITORING POINTS AND CUSTOMER LOYALTY AND ARE GOVERNED BY THE TERMS AND CONDITIONS WITHIN THE FRANCHISE AGREEMENT. SHOULD THEY REGISTER WITH THE COMMISSION AND DISPLAY THEIR OWN SEAL OF REGISTRATION?
+For retail and service establishments, a franchisee shall display the NPC Seal of Registration of the franchisor or its own as registered under its own business name depending on the privacy policy/manual implemented by the franchisor. The commonality of Data Processing Systems such as rewards program, membership, mobile application, among others, shall be taken into consideration for policy implementation.
+
+Q: MY ORGANIZATION IS SUBSIDIARY/SISTER COMPANY OF ANOTHER PIC, WILL WE STILL NEED TO REGISTER THROUGH THE NPCRS AND DOWNLOAD OUR OWN COR AND SOR TO BE DISPLAYED IN OUR WEBSITE AND/OR ESTABLISHMENT?
+Subsidiaries or sister companies may opt not to register with the NPCRS and use the SOR or their parent company given that the subsidiary/sister company shares the same Corporate / Registered Name as the parent company and that the subsidiary/sister company’s name is indicated in the Business/Trade Name (doing business as..) as reflected in their GIS and SEC COR.
+
+Q: MY ORGANIZATION HAS BRANCHES AND FRANCHISES ACROSS THE COUNTRY, WILL WE STILL NEED TO REGISTER ALL OUR BRANCHES AND FRANCHISED BRANCHES, OR WILL THEY HAVE TO REGISTER ON THEIR OWN?
+For branches with the same Corporate/ Registered Name: The head office /main branch may opt for their SOR to be used and displayed by their branches; alternatively, the head office / main branch may also have their branches register separately, however the branch will need to indicate the name of the establishment with the branch location indicated with the name of the establishment.
+
+Example: Lorem Ipsum Resto and Bar (Malate Branch) / Lorem Ipsum Resto and Bar – Malate Branch
+
+For franchised branches: Franchised branches are registered under a different Corporate / Registered Name, if according to franchisor policy, the franchised branches will have to register separately with the NPCRS.
+
+Q: IN THE SUBMISSION OF THE REQUIRED DOCUMENTS FOR REGISTRATION, WILL THE COMMISSION ALLOW DOCUMENTS SIGNED IN COUNTERPARTS OR THOSE DOCUMENTS WHEREIN PARTIES SIGN A SEPARATE BUT IDENTICAL COPY OF THE DOCUMENTS BY REASON OF THE FACT THAT THE PARTIES ARE LOCATED IN SEPARATE JURISDICTION?
+We will allow Registration Forms executed in counterparts.
+
+Execution in counterparts involves each party signing a separate (but identical) copy of the document. The two signed copies form a single binding document, without the need for all the parties to sign the same copy. Both copies should be uploaded and submitted.
+
+When one party or both has a document in counterpart notarized in another jurisdiction this should be accompanied by an apostille which is the same requirement for supporting documents from foreign entities.
+
+Q: HOW SHALL WE PROCEED WITH DOCUMENTATION FOR REGISTRATION WHEN ONE PARTY OR BOTH HAS A DOCUMENT IN COUNTERPART NOTARIZED IN ANOTHER JURISDICTION?
+Since the letter of the regulation particularly Section 11 of NPC Circular No. 2022-04 only mentioned "must be duly notarized", the normal way of document notarization per jurisdiction is recognized.
+
+In the event that the DPO is in the Philippines and the CEO is abroad, the DPO form is allowed to be notarized in counterparts, one copy notarized in the Philippines and one copy notarized abroad. Both copies shall be submitted.
+
+In the case of supporting documents for Foreign Organizations, the rule on Authenticated copy OR Apostille shall be followed.
+
+Q: THE DECISION-MAKING BODY OF OUR ORGANIZATION IS NOT AMONG THOSE ENUMERATED IN NPC CIRCULAR 2022-04. WHO SHOULD WE INDICATE AS THE HEAD OF OUR ORGANIZATION AND HOW DO WE FILL IN THE REGISTRATION FORM?
+H. “Head of Organization” refers to the head or decision-making body of a private entity or organization; For private organizations or government-owned and controlled corporations organized as private corporations, the Head of Organization may be the President, the Chief Executive Officer, or the Chairman of the Board of Directors or any officer of equivalent rank in the organization.
+
+From the definition we are not limited to only these enumerated positions, we will accept any officer of equivalent rank in the organization to sign the Registration Form.
+
+Since as a default the auto generated form will auto populate the fields in the Registration Form in PDF format, we may allow the DPO to edit the Head of Organization in the form to be signed and Notarized.
+
+Q: WE SUBMITTED A SECRETARY’S CERTIFICATE ISSUED IN 2022. WHY WAS IT NOT ACCEPTED?
+For purposes of validation and to keep our record clean and updated we will only accept Secretary’s Certificates notarized 2023 onwards. As such, PICs/PIPs may use its earlier issued Board Resolution appointing the DPO as basis for the updated Secretary’s Certificate as long as there are no changes.
+
+For those submitting a document other than a Secretary’s Certificate, the required valid document conferring the authority to appoint shall be required.
+
+Q: HOW DO WE SELECT THE SECTOR WE BELONG TO IN THE NPCRS?
+The selection of the sector in the NPCRS should be governed by the current Philippine Standard Industrial Classification (PSIC).
+
+Q: OUR ORGANIZATION SUBMITTED A SWORN UNDERTAKING THAT WE ARE NOT COVERED BY THE MANDATORY REGISTRATION IN THE NPCRS. IS THERE A NEED FOR US TO REGISTER IN THE DATA BREACH NOTIFICATION MANAGEMENT SYSTEM (DBNMS) STILL?
+Yes, for purposes of submitting ASIR provided for under the DPA and for reporting of personal data breach.
+
+WE HAVE SUBMITTED A SWORN DECLARATION AND UNDERTAKING (SDAU) FOR EXEMPTION (ANNEX 1) FROM REGISTRATION OF OUR DPS SINCE WE ARE NOT COVERED BY THE PROVISIONS OF SECTION 5 PROVIDING FOR MANDATORY REGISTRATION. HOW CAN WE REGISTER OUR DPO?
+Section 6, provides for the voluntary registration of an organization’s DPO. Likewise, by opting to submit Annex 1, the details of the DPO are made known to the Commission.
+
+However, it is crucial to note that opting to file Annex 1 does not exempt the PICs/PIPs from the provisions of the DPA. Thus, PICs/PIPs must still adhere to the provisions of the NPC's Data Privacy Act, IRR, issuances, and circulars.
+
+Any changes affecting the veracity of the information or details provided in Annex 1 must be promptly updated and if there is a need, registration through the NPCRS must be effected to ensure continued compliance.
+
+Q: IN LIEU OF REGISTRATION, WE SUBMITTED ANNEX 1, INSTEAD. WILL THERE BE A CERTIFICATE OF EXEMPTION ISSUED BY THE NPC? WILL THERE BE A NEED TO RENEW ANNEX 1 IF THERE ARE NO CHANGES IN OUR ORGANIZATION'S CIRCUMSTANCES?
+The Commission does not issue any certificate of exemption. While Annex 1 was submitted to NPC, it does not on its face signify that it is indeed exempted from registration as the provisions of Circular No. 2022-04, particularly that of Section 5, will still govern. Annex 1 merely signifies that the organization is claiming that it is not covered by mandatory registration. However, as a regulator, the Commission has the mandate to verify and confirm such submissions made by the personal information controllers and processors (PICs/PIPs) before the Commission.
+
+Your notarized SDAU is legally binding and you can use the same in lieu of the COR and SOR issued for those for mandatory registration or opted to register voluntarily.
+
+As to renewing Annex 1, the same is no longer needed if the circumstances of your organization have not changed. The submission will be considered binding and effective unless the same is revoked by another submission by reason of any significant changes within their operations, necessarily affecting the provisions of the Sworn Declaration or by registration with the NPCRS.
+
+Q: AS AN ORGANIZATION SUBJECT TO THE DPA, WE HAVE COMPLETED THE REGISTRATION PROCESS WITH THE NATIONAL PRIVACY COMMISSION (NPC) NO LATER THAN 2022. CAN WE CONFIRM THAT THIS REGISTRATION IS SATISFACTORY AND SUFFICIENT FOR MAINTAINING COMPLIANCE WITH THE DPA?
+No, it's not sufficient. If your organization was manually registered on or before 2022, or prior to the establishment and implementation of the NPCRS, we recommend registering through the NPCRS. This is in accordance with NPC Circular No. 2022-04, effective from 11 January 2022, which mandates that all applications for the registration of Data Processing Systems and Data Protection Officers must be submitted through the NPCR only.
+
+According to NPC Circular No. 2022-04, Section 17, a PIC or PIP will be considered unregistered if there is:
+
+(a) failure to register with the Commission in accordance with Section 7 of this Circular;
+(b) expiration and non-renewal of Certificate of Registration;
+(c) non-submission of any deficiency in supporting documents within five (5) days from notice;
+(d) rejection or disapproval of an application for registration, or an application for renewal of registration; or
+(e) revocation of the Certificate of Registration.
+Furthermore, the same NPC Circular states that the COR is valid for one year and that the PIC/PIP must renew its registration within thirty (30) days before the expiration of the one-year validity period. The Commission may also require reasonable fees for registration, renewal, and other purposes.
+
+Q: WE ARE A CONDOMINIUM CORPORATION OR ASSOCIATION, ARE WE REQUIRED TO APPOINT A DPO AND REGISTER WITH THE NPCRS? HOW ABOUT OUR PROPERTY MANAGEMENT THIRD PARTY SERVICE PROVIDER THAT PROCESSES PERSONAL INFORMATION FOR US, ARE THEY REQUIRED TO REGISTER AND APPOINT A DPO?
+Yes, the Board of Directors (BoD) of the Condominium Corporation or Association shall appoint a DPO while the third-party service provider shall also appoint and designate its employee as DPO as two separate entities.
+
+The designation of a DPO is mandated by Section 21(b) of the Data Privacy Act (DPA) and Section 50(b) of its Implementing Rules and Regulations. PICs/PIPs are required to designate an individual accountable for ensuring the organization's compliance with data protection laws.
+
+The condominium corporation or association, as the PIC, shall have its BoD designate or appoint a DPO and register the same together with its DPS with the Commission.
+
+In cases where the condominium corporation or association is under the management of a third-party service provider, as the PIP entrusted by the PIC to process personal data, the PIC may appoint a DPO and register the same under the name of the corporation or association – or the PIC shall ensure the PIP shall designate or appoint its own DPO from its employees and register the same together with its DPS with the Commission as a PIP under its business name.
+
+Q: WHAT IS THE PURPOSE OR BASIS OF PROCESSING PERSONAL INFORMATION UNDER THE NPC? IS THE PURPOSE FOR RENEWAL OF LICENSE OR REGISTRATION OF DPO VALID?
+No, if the purpose for processing personal information or sensitive personal information (PI/SPI) is due to renewal of license or registration of DPO is invalid thus, such purpose shall be rejected.
+
+Pursuant to R.A. 10173 or the Data Privacy Act of 2012 (DPA) and its Implementing Rules and Regulation (IRR), the collection and processing of PI/SPI must be specified and for a legitimate purpose. Such a purpose must be anchored to Sections 12 and 13 of the DPA. Section 12 of the DPA specifically provides the conditions as to which processing of PI is permitted:
+
+(a) The data subject has given his or her consent;
+(b) The processing of personal information is necessary and is related to the fulfillment of a contract with the data subject or in order to take steps at the request of the data subject prior to entering into a contract;
+(c) The processing is necessary for compliance with a legal obligation to which the personal information controller is subject;
+(d) The processing is necessary to protect vitally important interests of the data subject, including life and health;
+(e) The processing is necessary in order to respond to national emergency, to comply with the requirements of public order and safety, or to fulfill functions of public authority which necessarily includes the processing of personal data for the fulfillment of its mandate; or
+(f) The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
+While Section 13 of the DPA provides that the processing of SPI and privileged information shall be prohibited, except in the following cases:
+
+(a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
+(b) The processing of the same is provided for by existing laws and regulations: Provided, that such regulatory enactments guarantee the protection of the sensitive personal information and the privileged information: Provided, further, That the consent of the data subjects are not required by law or regulation permitting the processing of the sensitive personal information or the privileged information;
+(c) The processing is necessary to protect the life and health of the data subject or another person, and the data subject is not legally or physically able to express his or her consent prior to the processing;
+(d) The processing is necessary to achieve the lawful and noncommercial objectives of public organizations and their associations: Provided, That such processing is only confined and related to the bona fide members of these organizations or their associations: Provided, further, That the sensitive personal information are not transferred to third parties: Provided, finally, That consent of the data subject was obtained prior to processing;
+(e) The processing is necessary for purposes of medical treatment, is carried out by a medical practitioner or a medical treatment institution, and an adequate level of protection of personal information is ensured; or
+(f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
+Therefore, upon filing of registration the basis of processing PI/SPI must be of a valid purpose as mentioned above. While the description of the categories of data subjects, description of data or categories of data relating to data subjects, and recipients or categories of recipients to whom data might be disclosed must be specified.
+
+Q: WE ARE A HOSPITAL FUNDED AND CONTROLLED BY OUR RESPECTIVE LGU? ARE WE REQUIRED TO REGISTER UNDER OUR NAME BEING THE PIC OR SHALL OUR RESPECTIVE LGU REGISTER AS THE PIC?
+It depends. A hospital with no separate charter operating merely as a functional unit within their respective LGU is not required to register. However, such hospitals must post the LGU's SOR. The hospitals under the LGU must register the hospital under its data processing system.
+
+On the other hand, if the hospital has a separate charter and operates independently of its respective LGU, then entities or hospitals must register separately.
+
+If it is a privacy policy of the LGU to register these entities separately then the policy should be followed
+
+Q: WE ARE A PRIVATE SCHOOL WITH PRIMARY AND SECONDARY EDUCATION, ARE THE OTHER SCHOOLS UNDER OUR NAME REQUIRED TO REGISTER WHILE DESIGNATING A SEPARATE DPO?
+Private schools are required to register each of its campuses. (School Name – Branch/Campus)
+
+Otherwise, if it is a privacy policy of the school to implement one registration then they may use the COR and SOR of the main campus for all other branch/campus
+
+Q: WE ARE A PRIVATE UNIVERSITY OR COLLEGE WITH CAMPUSES ALL OVER THE PHILIPPINES, ARE WE REQUIRED TO REGISTER EACH CAMPUS OR BRANCHES WITH SEPARATE DPOS?
+Yes. Private Universities or Colleges like private schools with primary and secondary education shall register individually and assign DPOs for each school. (School Name – Branch/Campus)
+
+Otherwise, if it is a privacy policy of the school to implement one registration then they may use the COR and SOR of the main campus for all other branch/campus
+
+Q: WE ARE A GOVERNMENT FUNDED SCHOOL UNDER THE DEPED SCHOOLS DIVISION, ARE WE REQUIRED TO REGISTER INDIVIDUALLY DESIGNATING DIFFERENT DPOS FOR EACH SCHOOL OR CAMPUS?
+No. As a government-funded school under the DepEd Schools Division, it is not required for each individual school or campus to register separately or designate distinct DPOs Instead, the entire Schools Division should register collectively as the Personal Information Controller (PIC) and appoint a single DPO to oversee compliance and data protection efforts.
+
+Q: WE ARE A STATE UNIVERSITY AND COLLEGES SYSTEM (SUCC) WITH CONSTITUENT SCHOOLS ACROSS MULTIPLE CAMPUSES. ARE WE REQUIRED TO REGISTER EACH CAMPUS INDIVIDUALLY?
+It depends. The State University and Colleges (SUCC) must register each campus individually and designate separate Data Protection Officers (DPOs) if the main university and each campus has its own chancellor or president. However, if the university and all its campuses share a single chancellor or president, then the university should register as one entity and designate one DPO.
+
+Q. WHEN CAN I RENEW MY REGISTRATION APPLICATION?
+30 days before the expiration of the COR and SOR, the system will send a notification to the NPCRS account of the PIC/PIP/Individual Professional and to the official DPO email address, indicating that the renewal process is now open.
+
+Click the “Renew” button and check if all the details and supporting documents are updated and correct, then proceed with the registration update. The application will go through validation and approval again, subject to the appropriate renewal fees.
+
+Important: Should there be a change in DPO within the renewal period, the DPO is advised to complete the renewal first then proceed with the minor amendment of change of DPO.
+
+Q: THE STATUS OF THE REGISTRATION APPLICATION HASN'T CHANGED, EVEN THOUGH OUR PAYMENT WAS SUCCESSFUL.
+When using payment methods like GCash, PayMaya, or GrabPay, you need to click "Update Payment" after successful payment to update the status in your NPCRS account.
+
+Q: THE "GENERATE CERTIFICATE" BUTTON IS DISABLED EVEN THOUGH MY REGISTRATION APPLICATION IS APPROVED.
+After your registration application is approved, you need to make the payment first. The "Generate Certificate" button will be enabled once the payment is successful.
+
+Q: I ALREADY CLICKED THE "GENERATE CERTIFICATE" BUTTON, AND I HAVE ALREADY PAID FOR MY REGISTRATION, HOWEVER ONLY THE COR IS BEING DOWNLOADED.
+Once the “Generate Certificate” button is enabled, you need to make sure that the browser you are using to download has “multiple downloads” allowed. Different browsers have different instructions for allowing multiple downloads from their settings menu.
+
+Disable pop-up blockers then click “Generate Certificate”.
+
+Q: I HAVE ALREADY FILED A SWORN DECLARATION AND UNDERTAKING (SDAU) FOR REGISTRATION EXEMPTION PRIOR TO THE ENHANCEMENT OF NPCRS, WILL I NEED TO FILE AN SDAU AGAIN?
+All SDAU filed via registrationexemption@privacy.gov.ph prior to and during the NPCRS enhancement (Sept. 23, 2024 - Sept. 30, 2024) will need not submit an SDAU again.
+
+Q. MY REGISTRATION WAS REJECTED DUE TO AN INVALID DPO FORM, STATING IT IS NOT SYSTEM GENERATED. WHERE WILL I FIND THE SYSTEM GENERATED DPO FORM?
+We will only accept DULY NOTARIZED SYSTEM GENERATED DPO FORMS (NPC Form 2022-01). This DPO Form is exclusively available through the NPCRS Portal when the status of your registration is “FOR NOTARIZATION”; an “EXPORT” button will appear which will download the system generated DPO form.
+
+Please make sure not to edit or modify the system generated DPO Form. It is pertinent that the details in the system generated DPO Form are identical to the information in the NPCRS.
+
+Please upload the clearest copy of the SIGNED and DULY NOTARIZED DPO form and make sure ALL portions of the form are viewable, including the notary details and information.
+
+Q: MY APPLICATION WAS REJECTED DUE TO AN INVALID SECRETARY’S CERTIFICATE (CORPORATIONS/OPCS) / PARTNERSHIP RESOLUTIONS (PARTNERSHIPS) / SPA OR NOTARIZED APPOINTMENT LETTER (SOLE PROPRIETORS) BECAUSE THE DOCUMENT DOES NOT INDICATE THE APPOINTMENT OR DESIGNATION OF THE DPO BUT ONLY ITS AUTHORIZATION, HOW DO I RECONCILE THIS?
+Please make sure the uploaded document explicitly states in writing that the person is being APPOINTED or DESIGNATED to be the organization's DPO. Ambiguous/implicit appointments/designations or usage of “authorization” will be considered INVALID.
+
+Please upload the clearest copy and make sure all portions of the document are viewable and that the uploaded document is duly notarized and signed by the Corporate Secretary / Authorized Appointing Person.
+
+Q: WHAT IS THE VALIDITY OF A SECRETARY’S CERTIFICATE/PARTNERSHIP RESOLUTION/SPA OR NOTARIZED APPOINTMENT LETTER REGARDING THE SUPPORTING DOCUMENTS TO BE UPLOADED TO THE NPCRS?
+FOR NEW REGISTRATIONS (including renewals with no existing NPCRS account): if the information in the DPO form is the same as in the submitted document, including the date of appointment / designation of the DPO.
+
+OR
+
+FOR RENEWALS (through the NPCRS): as long as there are no changes in the organization's information (including HoO and DPO details) from the first registration, the document from the previous registration can be used.
+
+Q. OUR CORPORATION DOES NOT ISSUE SECRETARY’S CERTIFICATES, ARE THERE ANY OTHER DOCUMENTS WE CAN UPLOAD IN REPLACEMENT OF IT, AND WOULD WE NEED TO PROVIDE ANOTHER DOCUMENT?
+You may upload a DULY NOTARIZED APPOINTMENT LETTER in lieu of the SECRETARY’S CERTIFICATE. However, you will also need to upload another supporting document in the next placement (“OTHER DOCUMENTS CONFERRING AUTHORITY...”) that the indicated Head of the Organization (HoO), is authorized/has the authority to appoint/designate persons to roles or positions in the organization.
+
+Q: OUR ORGANIZATION DOES NOT HAVE AN SEC CERT. OF REGISTRATION (COR) AS WE ARE REGISTERED WITH THE REGULATORY BODY SPECIFIC TO OUR INDUSTRY. WHAT DOCUMENT/S WILL BE HONORED IN REPLACEMENT OF THE SEC COR?
+For Cooperatives: Cooperative Development Authority (CDA) Certificate of Registration.
+
+Homeowners Association: Housing and Land Use Regulatory Board (HLURB) Certificate of Registration.
+
+For other industries that are not issued SEC CORs you may upload a COR of equal bearing applicable to your industry.
+
+Please be reminded that the BIR Certificate of Registration is NOT a valid document.
+
+Q: OUR ORGANIZATION’S SEC CERTIFICATE OF REGISTRATION IS CURRENTLY UNAVAILABLE, IS THERE ANY OTHER DOCUMENT WE CAN SUBMIT IN REPLACEMENT OF IT?
+In the absence of the Certificate of Registration itself, the By-Laws or Articles of Incorporation (AOI) will be accepted.
+
+Q: OUR ORGANIZATION DOES NOT HAVE AN SEC GENERAL INFORMATION SHEET (GIS) AS WE ARE REGISTERED WITH THE REGULATORY BODY SPECIFIC TO OUR INDUSTRY. WHAT DOCUMENT/S WILL BE HONORED IN REPLACEMENT OF THE SEC GIS?
+For Cooperatives: CTC Notarized Cooperative Annual Progress Report (CAPR).
+
+For Homeowners Association: Housing and Land Use Regulatory Board (HLURB) General Information Sheet
+
+For other industries that are not issued with SEC GIS you may upload a document of equal bearing applicable to your industry.
+
+Please make sure ALL PAGES of the document are uploaded, and the document is a certified true copy (CTC).
+
+Q: WHAT IS THE LATEST VALIDITY ALLOWED FOR THE SUBMISSION OF THE GIS?
+The latest document is considered as the document of the current year or the year before.
+
+Ex. CTC GIS 2024 or CTC GIS 2025 (for fiscal year 2025); CTC GIS 2025 or CTC GIS 2026 (for fiscal year 2026)
+
+Q: OUR ORGANIZATION IS NOT ISSUED A BUSINESS OR MAYORS PERMIT AS OUR PERMIT IS SPECIFIC TO THE NATURE OF OUR LOCATION AND INDUSTRY. WHAT DOCUMENT/S WILL BE HONORED IN REPLACEMENT OF THE BUSINESS OR MAYORS PERMIT / CERTIFICATION?
+For business registered in an Economic Zone: Philippine Economic Zone Authority (PEZA) Permit to Operate (PTO)
+
+For business registered in a Freeport Zone: Certificate of Registration and Tax Exemption
+
+Please remember to upload the clearest copy and make sure all portions of the document are viewable.
+
+III. Q: THE LGU WHERE OUR ORGANIZATION IS BASED HAS A LOCAL ORDINANCE REGARDING THE VALIDITY OF OUR BUSINESS/MAYORS PERMIT, MAY I STILL USE THIS BUSINESS PERMIT DURING MY RENEWAL / FOR MY RENEWAL?
+For Local Government Units (LGU’s) that have a local ordinance on the document’s validity, please attach relevant provision/circular of the ordinance.
+
+Q: ARE WE ALLOWED TO EDIT OR REMOVE SOME OF THE RECITALS IN THE SDAU (ANNEX 1)
+THE ANSWER IS, NO.
